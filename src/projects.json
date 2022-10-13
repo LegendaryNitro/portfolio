@@ -1,0 +1,25 @@
+ [
+    {
+        "id":1,
+        "name": "Assure Foods",
+        "desc":"An ecommerce web app I was a part of dealing with connecting api's to the web admin panel",
+        "mainImg": "./projects/assureFoods/login.JPG"
+
+    },
+
+    {
+        "id":2,
+        "name": "Lepro",
+        "desc":"A web App used for tracking ATM cleaning around the country. My role was to design the front-end and connecting Api's to the Front-end",
+        "mainImg":"./projects/LePro/login.JPG"
+
+    },
+
+    {
+        "id":3,
+        "name": "Online Orange Sounds",
+        "desc":"A music streaming app. It's a solo project that I own, Therefore I deal with creating the back-end and front-end code, security, state management, deployment, storage(database and persistant), design and mananging the whole project",
+        "mainImg": "./projects/oos/login2.jpg"
+
+    }
+ ]

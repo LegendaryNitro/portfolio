@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "name":"Vanilla javascript",
+        "level": 80,
+        "label":4
+    },
+    {
+        "id": 13,
+        "name":"React/React native/Coreui/Argon",
+        "level":80,
+        "label":4
+    },
+    {
+        "id": 2,
+        "name":"Angular",
+        "level":80,
+        "label":4
+    },
+    {
+        "id": 3,
+        "name":"Python",
+        "level":80,
+        "label":4
+    },
+    {
+        "id": 4,
+        "name":"Python for data Science",
+        "level":60,
+        "label":3
+    },
+    {
+        "id": 5,
+        "name":"Django/Flask",
+        "level":80,
+        "label":4
+    },
+
+    {
+        "id": 6,
+        "name":"Flutter",
+        "level":80,
+        "label":4
+    },
+    {
+        "id": 7,
+        "name":"Web HTML5/CSS",
+        "level":100,
+        "label":5
+    },
+    {
+        "id": 8,
+        "name":"Three.js",
+        "level":60,
+        "label":3
+    },
+    {
+        "id": 9,
+        "name":"Node Express.js",
+        "level":80,
+        "label":4
+    },
+    {
+        "id": 10,
+        "name":"Django Rest",
+        "level":100,
+        "label":5
+    },
+    {
+        "id": 11,
+        "name":"Solidity on the Ethereum Network",
+        "level":60,
+        "label":3
+    },
+    {
+        "id": 12,
+        "name":"C#",
+        "level":60,
+        "label":3
+    },
+    {
+        "id": 12,
+        "name":"Redux",
+        "level":60,
+        "label":3
+    }
+
+
+]
