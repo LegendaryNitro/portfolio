@@ -188,7 +188,7 @@ function App() {
       <div ref={contact} className="contact">
         <p className="contactheader">talk to me</p>
         <p className="contactP">Whatsapp or Call me: +27 74 079 9417</p>
-        <p className="contactP">Email: nkululekomzobe@zamambo.co.za / unkululekoc@gmail.com</p>
+        <p className="contactP">Email:  unkululekoc@gmail.com</p>
         <br />
       </div>
 
