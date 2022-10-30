@@ -62,7 +62,7 @@ function App() {
             <Card.Text>
             <h2 className="fullname">Hi... My name is Nkululeko Comfort Mzobe</h2>
             <h6 className="versitilemobile">
-                        Versitile full stack developer comfortable in different
+                        Versatile full stack developer comfortable in different
                         technologies, adaptive in all kinds of situations in the
                         developement phases in projects. I am based in South Africa
                         </h6>
@@ -188,7 +188,7 @@ function App() {
       <div ref={contact} className="contact">
         <p className="contactheader">talk to me</p>
         <p className="contactP">Whatsapp or Call me: +27 74 079 9417</p>
-        <p className="contactP">Email:  unkululekoc@gmail.com</p>
+        <p className="contactP">Email: unkululekoc@gmail.com</p>
         <br />
       </div>
 
